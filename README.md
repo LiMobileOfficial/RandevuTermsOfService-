@@ -1,3 +1,248 @@
+# Randevu – Terms of Service
+
+**Last Updated: January 6, 2025**
+
+## 1. General Information
+
+Randevu is a digital appointment scheduling platform developed by LiMobile, bringing together businesses and customers operating in the beauty, personal care, and service industries.
+
+These Terms of Service are binding for all users who access or use the Randevu mobile application or website. By using the application, you are deemed to have accepted these terms.
+
+## 2. Definitions
+
+* **User**: An individual who registers with the Randevu platform and uses its services.
+* **Business (Professional)**: Hair salons, beauty salons, barbershops, spas, or similar businesses offering services through the Randevu platform.
+* **Employee (Professional)**: An employee of a business who provides services via the Randevu platform.
+* **Service**: Appointment creation, viewing, and management services provided through the Randevu platform.
+* **Platform**: The Randevu mobile application and/or website.
+
+## 3. Use of the Service
+
+### 3.1 User Responsibilities
+
+* Users are responsible for ensuring that the information provided during registration is accurate and up to date.
+* Users must keep their account credentials (password, phone number, etc.) confidential.
+* Users are responsible for all activities carried out through their accounts.
+* Users are responsible for attending their appointments on time.
+
+### 3.2 Business Responsibilities
+
+* Businesses are responsible for ensuring that the information in their profiles is accurate, current, and compliant with applicable laws.
+* Businesses are responsible for the quality of the services they provide and for customer satisfaction.
+* Businesses must keep their working hours and availability up to date.
+* Businesses must process customer data in compliance with KVKK and applicable data protection regulations.
+
+### 3.3 Platform Role
+
+Randevu acts solely as a software platform that facilitates communication and appointment scheduling between users and businesses. Any responsibility arising from service delivery or appointment cancellation belongs exclusively to the relevant user and/or business.
+
+## 4. Acceptable Use Policy
+
+### 4.1 Prohibited Activities
+
+Users may not:
+
+* Use the platform for unlawful purposes
+* Provide false or misleading information
+* Gain unauthorized access to other users’ accounts
+* Engage in activities that compromise platform security
+* Distribute spam, malware, or harmful content
+* Harass or disturb other users
+* Abuse the platform outside its intended purpose
+* Share content that infringes intellectual property rights
+
+### 4.2 Enforcement
+
+Users who violate these Terms of Service may be subject to warnings, temporary suspension, or permanent account termination.
+
+## 5. Service Scope and Limitations
+
+### 5.1 Platform Features
+
+* Business search and discovery
+* Appointment creation and management
+* Saving favorite businesses
+* Notifications
+* Premium subscription features (for business owners)
+
+### 5.2 Service Interruptions
+
+Randevu does not guarantee uninterrupted or error-free service. Temporary service interruptions may occur due to maintenance, updates, security improvements, or force majeure events.
+
+### 5.3 Platform Modifications
+
+LiMobile reserves the right to modify, add, or remove platform features at any time without prior notice.
+
+## 6. Intellectual Property Rights
+
+### 6.1 Platform Ownership
+
+All content, design, software, logos, trademarks, and intellectual property elements on the Randevu platform are owned by LiMobile.
+
+### 6.2 License to Use
+
+Users are granted a limited, non-exclusive, non-transferable license for personal and non-commercial use only.
+
+### 6.3 User Content
+
+* Users represent that they own or have obtained all necessary rights to the content they share (photos, reviews, ratings, etc.).
+* Users grant LiMobile an irrevocable license to use, display, and process such content on the platform.
+
+### 6.4 Unauthorized Use
+
+Unauthorized copying, reproduction, distribution, reverse engineering, or sharing is prohibited and may result in legal action.
+
+## 7. Privacy and Data Protection
+
+For detailed information on how user data is collected, processed, and protected, please review our [Privacy Policy](https://github.com/LiMobileOfficial/RandevuPrivacyPolicy).
+
+## 8. Premium Subscriptions
+
+### 8.1 Subscription Terms
+
+* Premium subscriptions are available to business owners
+* Subscription plans may include monthly, annual, or other periodic options
+* Auto-renewal is enabled by default
+
+### 8.2 Payments and Billing
+
+* Payments are processed through the App Store or Google Play Store
+* Subscription fees vary by selected plan
+* All payments are subject to the payment policies of the relevant app store
+
+### 8.3 Cancellation and Refunds
+
+* Subscriptions may be canceled at any time
+* Cancellations must be made through App Store or Google Play Store settings
+* Refunds are subject to the policies of Apple App Store or Google Play Store
+* No partial refunds are provided for unused periods
+
+### 8.4 Subscription Features
+
+Premium subscriptions include:
+
+* Unlimited business creation
+* Unlimited appointment management
+* Unlimited employee and service additions
+* Advanced analytics and reporting
+* Priority support
+
+## 9. Limitation of Liability
+
+### 9.1 Platform Liability
+
+LiMobile shall not be liable for:
+
+* Accuracy of content, reviews, or information provided by users or businesses
+* Quality or outcomes of services provided by businesses
+* Missed or late appointments by users
+* Service disruptions or cancellations by businesses
+* Issues arising from third-party services (payment providers, map services, etc.)
+* Internet connectivity or device compatibility issues
+
+### 9.2 Indirect Damages
+
+LiMobile shall not be liable for indirect, incidental, or consequential damages, including loss of profit, data loss, or reputational damage.
+
+### 9.3 Maximum Liability
+
+LiMobile’s total liability shall be limited to the subscription fees paid by the user within the last 12 months.
+
+## 10. Dispute Resolution
+
+### 10.1 Negotiation
+
+Any disputes arising between the parties shall first be resolved through good-faith negotiations.
+
+### 10.2 Governing Law
+
+These Terms of Service are governed by the laws of the Republic of Türkiye.
+
+### 10.3 Jurisdiction
+
+All disputes shall fall under the exclusive jurisdiction of **Eskişehir Central Courts and Enforcement Offices**.
+
+## 11. Account Deletion and Termination
+
+### 11.1 Termination by User
+
+Users may permanently delete their accounts through application settings or by contacting [info@limobileofficial.com](mailto:info@limobileofficial.com).
+
+### 11.2 Termination by Platform
+
+LiMobile may suspend or permanently terminate accounts in cases of:
+
+* Violation of these Terms of Service
+* Illegal activities
+* Harmful behavior toward other users
+* Use of false information or identity
+* Actions that threaten platform security
+
+### 11.3 Effects of Account Deletion
+
+Upon account deletion:
+
+* All personal data is permanently deleted
+* Appointment history is removed
+* Premium subscriptions are canceled (no refunds)
+* Business and customer data are deleted
+
+## 12. Amendments and Updates
+
+### 12.1 Changes to Terms
+
+LiMobile reserves the right to modify these Terms of Service at any time. Changes take effect upon publication within the application or on this page.
+
+### 12.2 Notification
+
+Significant changes will be communicated via in-app notifications, email, or other communication channels.
+
+### 12.3 Acceptance of Changes
+
+Continued use of the platform after changes are published constitutes acceptance of the updated terms.
+
+## 13. Miscellaneous
+
+### 13.1 Entire Agreement
+
+These Terms of Service and the Privacy Policy constitute the entire agreement between users and LiMobile.
+
+### 13.2 Waiver
+
+Failure by LiMobile to enforce any right shall not constitute a waiver of such right.
+
+### 13.3 Severability
+
+If any provision of these terms is deemed invalid, the remaining provisions shall remain in effect.
+
+### 13.4 Assignment
+
+Users may not assign or transfer their rights or obligations under this agreement to third parties.
+
+## 14. Contact
+
+For all inquiries, complaints, or notices:
+
+**LiMobile Technology**
+Email: [limobileofficial@gmail.com](mailto:limobileofficial@gmail.com)
+Web: [https://github.com/LiMobileOfficial](https://github.com/LiMobileOfficial)
+
+---
+
+## Contact and Support
+
+* **Technical Support**: [limobileofficial@gmail.com](mailto:limobileofficial@gmail.com)
+* **Business Support**: [limobileofficial@gmail.com](mailto:limobileofficial@gmail.com)
+* **General Inquiries**: [limobileofficial@gmail.com](mailto:limobileofficial@gmail.com)
+
+---
+
+**© 2025 LiMobile Technology. All rights reserved.**
+
+**Last Updated: January 6, 2025**
+
+---
+ 
  # Randevu - Kullanım Koşulları (Terms of Service)
 
   **Son Güncelleme: 06 Ocak 2025**
